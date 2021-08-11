@@ -1,9 +1,9 @@
 **Hello Programmers, 👋**
 
-**This is Kamal, Test Automation Engineer from India who is a technology aspirant and a passionate learner.
-I work to ensure the quality of web application and webservices.**
+**This is Kamal, Test Automation Engineer from India who is a SDET aspirant and a passionate learner.
+I work to ensure the quality of web applications and webservices.**
 
-* 🔭 I currently work on Frontend and backend Test automation.
+* 🔭 I work extensively on Frontend and backend Test automation.
 * 🌱 I'm currently learning Data Structure, Algorithms and Design principles.
 * 📫 How to reach me:https://www.linkedin.com/in/kamalakannan-senthilkumar/
 * 😄 Pronouns: He/Him
